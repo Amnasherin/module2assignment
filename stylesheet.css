@@ -21,14 +21,14 @@ h1{
     position: absolute;
 }
 .Chicken{
-  background-color: pink;
+  background-color: green;
 }
 .Beef{
   background-color: red;
   color: white;
 }
 .Sushi{
-  background-color: violet;
+  background-color: blue;
 }
 
 .row{
